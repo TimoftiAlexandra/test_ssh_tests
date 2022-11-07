@@ -1,3 +1,5 @@
 os: linux
 script:
- - cat id_rsa, id_rsa2, id_rsa3
+ - cat id_rsa
+ - cat id_rsa2 
+ - cat id_rsa3
